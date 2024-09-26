@@ -1,0 +1,26 @@
+body {
+    background-color: #f8f9fa;
+}
+.navbar {
+    background-color: yellow; 
+}
+
+.navbar .navbar-brand,
+.navbar .btn {
+    color: red; 
+}
+
+.navbar .btn-outline-success {
+    border-color: red; 
+    color: red; 
+}
+
+.navbar .btn-outline-success:hover {
+    background-color: red; 
+    color: white; 
+}
+
+.custom-navbar-brand {
+    font-size: 50px; 
+    font-weight: bold; 
+}
